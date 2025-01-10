@@ -23,6 +23,17 @@ h2 {
     border-radius: 0;
 }
 
+/* Button styling */
+
+.custom-style {
+    background-color: #1f7798;
+    border: #1f7798;
+}
+.custom-style:hover {
+    background-color: #1d6d8a;
+    border-color: #1d6d8a;
+}
+
 /* Hero section */
 
 #hero {
